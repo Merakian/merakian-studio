@@ -1,1 +1,1 @@
-# merakian-studio
+# Merakian | Studio
