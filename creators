@@ -1,0 +1,8 @@
+---
+layout: redirect
+sitemap: false
+title: "Merakian | Studio > Creators"
+permalink: /creators/
+redirect_to:
+  - https://medium.com/merakian-studio/creators
+---
